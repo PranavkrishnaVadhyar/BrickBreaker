@@ -21,7 +21,7 @@ class Ball(GameObject):
         self.radius = 10
         self.direction = [1, -1]
         self.speed = 6
-        self.hits
+        
         item = canvas.create_oval(x-self.radius, y-self.radius,
                                   x+self.radius, y+self.radius,
                                   fill='white')
@@ -57,8 +57,7 @@ class Ball(GameObject):
             if isinstance(game_object, Brick):
                 game_object.hit()
                 
-    def hit(self,):
-        self.hits -= 1
+
         
         
     
@@ -89,7 +88,7 @@ class Paddle(GameObject):
 
 
 class Brick(GameObject):
-    COLORS = {1: '#4535AA', 2: '#ED639E', 3: '#8FE1A2'}
+    COLORS = {1: 'Red', 2: 'Blue', 3: 'Green'}
 
     def __init__(self, canvas, x, y, hits):
         self.width = 75
