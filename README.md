@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="C:\Users\standardautomobiles\Videos\Captures" alt="project-screenshot" width="400" height="400/">
+<img src="C:/Users/standardautomobiles/Videos/CapturesBreak those Bricks! 04-12-2022 22_50_12" alt="project-screenshot" width="100" height="100/">
 
 <h2>🛠️ Installation Steps:</h2>
 
