@@ -1,4 +1,3 @@
-```markdown
 # BrickBreaker Game
 
 BrickBreaker is a simple game implemented in Python using the `tkinter` library. It simulates a classic brick-breaking game where a ball bounces around the screen, breaking bricks.
@@ -11,7 +10,6 @@ BrickBreaker is a simple game implemented in Python using the `tkinter` library.
 - [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -63,10 +61,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-This BrickBreaker game was developed by [Your Name](https://github.com/YourGitHubUsername).
+This BrickBreaker game was developed by [Your Name](https://github.com/PranavkrishnaVadhyar).
 
-## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to [contact us](mailto:youremail@example.com).
-```
+---
 
